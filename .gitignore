@@ -1,0 +1,9 @@
+# Editor
+.vscode
+
+# Jupyter-Kernel
+.ipynb_checkpoints
+
+# Data
+test/**
+train/**
